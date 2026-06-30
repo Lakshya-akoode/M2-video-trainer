@@ -1,0 +1,30 @@
+{
+  "exercise_name": "a11",
+  "total_duration_seconds": 74.16,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "step_1",
+      "rough_end_time": 26.0,
+      "cue": "hold start position"
+    },
+    {
+      "step_number": 2,
+      "step_name": "step_2",
+      "rough_end_time": 42.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "lift_your_right_leg_up",
+      "rough_end_time": 53.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "now_lift_your_left_arm_up",
+      "rough_end_time": null,
+      "cue": ""
+    }
+  ]
+}

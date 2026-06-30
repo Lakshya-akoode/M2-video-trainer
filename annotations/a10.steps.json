@@ -1,0 +1,42 @@
+{
+  "exercise_name": "a10",
+  "total_duration_seconds": 101.43,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start_position",
+      "rough_end_time": 28.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "step_2",
+      "rough_end_time": 53.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "lift_right_leg_up",
+      "rough_end_time": 71.0,
+      "cue": "hold the right leg up and straight"
+    },
+    {
+      "step_number": 4,
+      "step_name": "hold",
+      "rough_end_time": 78.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "lift_your_left_leg_up",
+      "rough_end_time": 87.0,
+      "cue": "hole the left leg up and straight and in end slowing put down"
+    },
+    {
+      "step_number": 6,
+      "step_name": "put_the_leg_down",
+      "rough_end_time": null,
+      "cue": ""
+    }
+  ]
+}
