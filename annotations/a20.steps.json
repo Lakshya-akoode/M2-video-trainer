@@ -1,0 +1,30 @@
+{
+  "exercise_name": "a20",
+  "total_duration_seconds": 60.35,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start_position",
+      "rough_end_time": 10.0,
+      "cue": "Start Position"
+    },
+    {
+      "step_number": 2,
+      "step_name": "take_position",
+      "rough_end_time": 19.0,
+      "cue": "Take Position"
+    },
+    {
+      "step_number": 3,
+      "step_name": "lean_forward",
+      "rough_end_time": 50.0,
+      "cue": "Lean Forward"
+    },
+    {
+      "step_number": 4,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "Relax"
+    }
+  ]
+}

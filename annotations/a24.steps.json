@@ -1,0 +1,30 @@
+{
+  "exercise_name": "a24",
+  "total_duration_seconds": 96.72,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start_postion",
+      "rough_end_time": 18.0,
+      "cue": "Start Position"
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_down_sideways",
+      "rough_end_time": 39.0,
+      "cue": "Lay Down SideWays"
+    },
+    {
+      "step_number": 3,
+      "step_name": "raise_your_belly_sideways_and_hold",
+      "rough_end_time": 85.0,
+      "cue": "Raise your Belly Sideways and Hold"
+    },
+    {
+      "step_number": 4,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "Relax"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "exercise_name": "a26",
+  "total_duration_seconds": 59.98,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start_position",
+      "rough_end_time": 10.0,
+      "cue": "Start Position"
+    },
+    {
+      "step_number": 2,
+      "step_name": "form_bridge_and_hold",
+      "rough_end_time": 50.0,
+      "cue": "Form Bridge and Hold"
+    },
+    {
+      "step_number": 3,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "Relax"
+    }
+  ]
+}

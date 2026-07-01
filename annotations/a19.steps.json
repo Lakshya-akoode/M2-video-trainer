@@ -1,0 +1,48 @@
+{
+  "exercise_name": "a19",
+  "total_duration_seconds": 85.96,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start_position",
+      "rough_end_time": 13.0,
+      "cue": "Start Position"
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_down_on_your_back",
+      "rough_end_time": 21.0,
+      "cue": "Lay On Your Back"
+    },
+    {
+      "step_number": 3,
+      "step_name": "put_your_legs_on_the_table_and_open_them_outwards",
+      "rough_end_time": 40.0,
+      "cue": "Put Your Legs on the Table and Open them Outwards"
+    },
+    {
+      "step_number": 4,
+      "step_name": "use_hands_to_touch_knees_and_hold",
+      "rough_end_time": 79.0,
+      "cue": "Use Hands to Touch Knees and Hold"
+    },
+    {
+      "step_number": 5,
+      "step_name": "relax",
+      "rough_end_time": 85.0,
+      "cue": "Relax"
+    },
+    {
+      "step_number": 6,
+      "step_name": "step_6",
+      "rough_end_time": null,
+      "cue": ""
+    },
+    {
+      "step_number": 7,
+      "step_name": "step_7",
+      "rough_end_time": null,
+      "cue": ""
+    }
+  ]
+}

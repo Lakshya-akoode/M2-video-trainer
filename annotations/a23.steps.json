@@ -1,0 +1,48 @@
+{
+  "exercise_name": "a23",
+  "total_duration_seconds": 80.41,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start_position",
+      "rough_end_time": 16.0,
+      "cue": "Start Position"
+    },
+    {
+      "step_number": 2,
+      "step_name": "bridge_position_and_hold",
+      "rough_end_time": 39.0,
+      "cue": "Bridge Position and Hold"
+    },
+    {
+      "step_number": 3,
+      "step_name": "back_outwards",
+      "rough_end_time": 45.0,
+      "cue": "back Outwards"
+    },
+    {
+      "step_number": 4,
+      "step_name": "back_inwards",
+      "rough_end_time": 47.0,
+      "cue": "Back Inwards"
+    },
+    {
+      "step_number": 5,
+      "step_name": "back_outwards",
+      "rough_end_time": 51.0,
+      "cue": "Back Outwards"
+    },
+    {
+      "step_number": 6,
+      "step_name": "back_inwards",
+      "rough_end_time": 73.0,
+      "cue": "Hold"
+    },
+    {
+      "step_number": 7,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "Relax"
+    }
+  ]
+}

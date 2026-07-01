@@ -1,0 +1,48 @@
+{
+  "exercise_name": "a17",
+  "total_duration_seconds": 56.26,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start_position",
+      "rough_end_time": 8.0,
+      "cue": "Get Ready"
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_down_on_your_back",
+      "rough_end_time": 17.0,
+      "cue": "Lay Down On Your Back"
+    },
+    {
+      "step_number": 3,
+      "step_name": "raise_your_legs_up",
+      "rough_end_time": 19.0,
+      "cue": "Raise your legs up"
+    },
+    {
+      "step_number": 4,
+      "step_name": "hold_your_feets_using_your_hands",
+      "rough_end_time": 25.0,
+      "cue": "Hold Your Fe with hands"
+    },
+    {
+      "step_number": 5,
+      "step_name": "hold_and_open_your_legs_outwards",
+      "rough_end_time": 41.0,
+      "cue": "Hold and Open Your Legs Outwards"
+    },
+    {
+      "step_number": 6,
+      "step_name": "hold_and_do_circular_movements",
+      "rough_end_time": 50.0,
+      "cue": "Hold and Do Circular Movements"
+    },
+    {
+      "step_number": 7,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "Relax"
+    }
+  ]
+}

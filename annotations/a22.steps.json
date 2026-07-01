@@ -1,0 +1,30 @@
+{
+  "exercise_name": "a22",
+  "total_duration_seconds": 67.65,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start_position",
+      "rough_end_time": 10.0,
+      "cue": "Start Position"
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_on_your_back_and_elbows",
+      "rough_end_time": 27.0,
+      "cue": "Lay on your Back and Elbows"
+    },
+    {
+      "step_number": 3,
+      "step_name": "full_body_bridge_and_hold",
+      "rough_end_time": 57.0,
+      "cue": "Full Body Bridge and Hold"
+    },
+    {
+      "step_number": 4,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "Relax"
+    }
+  ]
+}

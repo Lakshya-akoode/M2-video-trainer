@@ -1,0 +1,30 @@
+{
+  "exercise_name": "a4",
+  "total_duration_seconds": 99.1,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start_position",
+      "rough_end_time": 12.0,
+      "cue": "Start Position"
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_on_your_back",
+      "rough_end_time": 59.0,
+      "cue": "Lay On your Back"
+    },
+    {
+      "step_number": 3,
+      "step_name": "lift_your_right_leg_up_and_hold",
+      "rough_end_time": 90.0,
+      "cue": "Lift Your Right Leg Up and Hold"
+    },
+    {
+      "step_number": 4,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "Relax"
+    }
+  ]
+}

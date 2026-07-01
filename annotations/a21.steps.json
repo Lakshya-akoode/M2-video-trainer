@@ -1,0 +1,30 @@
+{
+  "exercise_name": "a21",
+  "total_duration_seconds": 72.57,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start_position",
+      "rough_end_time": 11.0,
+      "cue": "Start Position"
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_on_your_stomach_and_elbows",
+      "rough_end_time": 30.0,
+      "cue": "Lay on Your Stomach and Elbows"
+    },
+    {
+      "step_number": 3,
+      "step_name": "raise_abdomen_up_as_a_bridge",
+      "rough_end_time": 64.0,
+      "cue": "Hold"
+    },
+    {
+      "step_number": 4,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "Relax"
+    }
+  ]
+}

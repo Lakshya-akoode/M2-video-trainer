@@ -1,0 +1,60 @@
+{
+  "exercise_name": "a5",
+  "total_duration_seconds": 66.65,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start_position",
+      "rough_end_time": 10.0,
+      "cue": "Start Position"
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_down_on_your_back",
+      "rough_end_time": 41.0,
+      "cue": "Lay Down On Your Back"
+    },
+    {
+      "step_number": 3,
+      "step_name": "raise_your_right_leg_up_and_down",
+      "rough_end_time": 44.0,
+      "cue": "Raise Your Right Leg Up and Down"
+    },
+    {
+      "step_number": 4,
+      "step_name": "raise_your_left_leg_up_and_down",
+      "rough_end_time": 47.0,
+      "cue": "Raise your Left Leg Up and Down"
+    },
+    {
+      "step_number": 5,
+      "step_name": "raright_leg_up_and_down",
+      "rough_end_time": 50.0,
+      "cue": "Raise Your Right Leg Up and Down"
+    },
+    {
+      "step_number": 6,
+      "step_name": "raise_your_left_leg_up_and_down",
+      "rough_end_time": 53.0,
+      "cue": "Raise Your Left Leg Up and Down"
+    },
+    {
+      "step_number": 7,
+      "step_name": "raise_your_right_leg_up_and_down",
+      "rough_end_time": 56.0,
+      "cue": "Raise Your Right Leg Up and Down"
+    },
+    {
+      "step_number": 8,
+      "step_name": "raise_your_left_leg_up_and_down",
+      "rough_end_time": 59.0,
+      "cue": "Raise your left leg up and down"
+    },
+    {
+      "step_number": 9,
+      "step_name": "last_rep_and_relax",
+      "rough_end_time": null,
+      "cue": "last rep and relax"
+    }
+  ]
+}
