@@ -1,0 +1,60 @@
+{
+  "exercise_name": "a15",
+  "total_duration_seconds": 46.25,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start_position",
+      "rough_end_time": 8.0,
+      "cue": "Get Ready"
+    },
+    {
+      "step_number": 2,
+      "step_name": "take_form_as_shown",
+      "rough_end_time": 24.0,
+      "cue": "Get Ready"
+    },
+    {
+      "step_number": 3,
+      "step_name": "slide_outwards",
+      "rough_end_time": 26.0,
+      "cue": "Slide Outwards"
+    },
+    {
+      "step_number": 4,
+      "step_name": "slide_back_inwards",
+      "rough_end_time": 29.0,
+      "cue": "Slide Inwards"
+    },
+    {
+      "step_number": 5,
+      "step_name": "slide_outwards_again",
+      "rough_end_time": 31.0,
+      "cue": "Slide Outwards Again"
+    },
+    {
+      "step_number": 6,
+      "step_name": "slide_inwards_again",
+      "rough_end_time": 32.0,
+      "cue": "Slide Inwards Again"
+    },
+    {
+      "step_number": 7,
+      "step_name": "slide_outwards_again",
+      "rough_end_time": 34.0,
+      "cue": "Slide Outwards Again"
+    },
+    {
+      "step_number": 8,
+      "step_name": "slide_inwards",
+      "rough_end_time": 36.0,
+      "cue": "Slide Inwards"
+    },
+    {
+      "step_number": 9,
+      "step_name": "one_more_time_and_relax",
+      "rough_end_time": null,
+      "cue": "One more time and relax"
+    }
+  ]
+}

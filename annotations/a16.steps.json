@@ -1,0 +1,36 @@
+{
+  "exercise_name": "a16",
+  "total_duration_seconds": 40.71,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start_position",
+      "rough_end_time": 6.0,
+      "cue": "Start Position"
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_on_your_back",
+      "rough_end_time": 16.0,
+      "cue": "Lay On Your Back"
+    },
+    {
+      "step_number": 3,
+      "step_name": "lift_your_legs_up_and_hold_ys_with_your_hands",
+      "rough_end_time": 20.0,
+      "cue": "Lift Your Legs and Hold Your Knees With Your Hands"
+    },
+    {
+      "step_number": 4,
+      "step_name": "hold_and_open_legs_outwards",
+      "rough_end_time": 36.0,
+      "cue": "Open Leg Outwards"
+    },
+    {
+      "step_number": 5,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "Relax"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "exercise_name": "a12",
+  "total_duration_seconds": 72.16,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start_position",
+      "rough_end_time": 29.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "form_bridge_position",
+      "rough_end_time": 39.0,
+      "cue": "Form Bridge Position and Get Ready"
+    },
+    {
+      "step_number": 3,
+      "step_name": "lift_your_right_leg_up",
+      "rough_end_time": 45.0,
+      "cue": "lift your right leg"
+    },
+    {
+      "step_number": 4,
+      "step_name": "bend_your_right_leg",
+      "rough_end_time": null,
+      "cue": "right leg to move outwards"
+    }
+  ]
+}

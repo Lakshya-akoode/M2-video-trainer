@@ -1,0 +1,30 @@
+{
+  "exercise_name": "a14",
+  "total_duration_seconds": 54.55,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start_position",
+      "rough_end_time": 19.0,
+      "cue": "Get Ready"
+    },
+    {
+      "step_number": 2,
+      "step_name": "keep_your_left_leg_on_the_chair",
+      "rough_end_time": 32.0,
+      "cue": "Keep your leg on the chair and get ready"
+    },
+    {
+      "step_number": 3,
+      "step_name": "bend_your_knee",
+      "rough_end_time": 44.0,
+      "cue": "Bend Your Knee as Shown"
+    },
+    {
+      "step_number": 4,
+      "step_name": "put_your_leg_down_and_relax",
+      "rough_end_time": null,
+      "cue": "Relax"
+    }
+  ]
+}
