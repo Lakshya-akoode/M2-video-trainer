@@ -1,0 +1,30 @@
+{
+  "exercise_name": "m-a122",
+  "total_duration_seconds": 92.26,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 7.0,
+      "cue": "start"
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_down",
+      "rough_end_time": 53.0,
+      "cue": "lay down"
+    },
+    {
+      "step_number": 3,
+      "step_name": "raise_youe_legs_and_hold",
+      "rough_end_time": 81.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

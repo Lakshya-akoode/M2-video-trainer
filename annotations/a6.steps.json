@@ -1,0 +1,54 @@
+{
+  "exercise_name": "a6",
+  "total_duration_seconds": 93.34,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start_position",
+      "rough_end_time": 18.0,
+      "cue": "start position"
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_down_on_your_back",
+      "rough_end_time": 41.0,
+      "cue": "lay down on your back"
+    },
+    {
+      "step_number": 3,
+      "step_name": "raise_your_right_leg_up_straight",
+      "rough_end_time": 53.0,
+      "cue": "raise your right leg up and straight and hold"
+    },
+    {
+      "step_number": 4,
+      "step_name": "raise_your_left_hand_and_extend_it_backwards",
+      "rough_end_time": 60.0,
+      "cue": "raise your left hand and extend it backward"
+    },
+    {
+      "step_number": 5,
+      "step_name": "relax",
+      "rough_end_time": 65.0,
+      "cue": "relax"
+    },
+    {
+      "step_number": 6,
+      "step_name": "repeat_with_left_leg",
+      "rough_end_time": 67.0,
+      "cue": "repeat with left leg"
+    },
+    {
+      "step_number": 7,
+      "step_name": "repeat_with_right_hand",
+      "rough_end_time": 81.0,
+      "cue": "repeat with right hand"
+    },
+    {
+      "step_number": 8,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

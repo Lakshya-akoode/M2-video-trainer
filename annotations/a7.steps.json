@@ -1,0 +1,30 @@
+{
+  "exercise_name": "a7",
+  "total_duration_seconds": 66.57,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start_position",
+      "rough_end_time": 14.0,
+      "cue": "start position"
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_down_on_your_back",
+      "rough_end_time": 35.0,
+      "cue": "lay down on your back"
+    },
+    {
+      "step_number": 3,
+      "step_name": "raise_both_legs_up_and_hold",
+      "rough_end_time": 53.0,
+      "cue": "raise both legs up and hold"
+    },
+    {
+      "step_number": 4,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

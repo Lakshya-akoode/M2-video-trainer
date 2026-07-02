@@ -1,0 +1,78 @@
+{
+  "exercise_name": "m-a115",
+  "total_duration_seconds": 95.93,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 61.0,
+      "cue": "start"
+    },
+    {
+      "step_number": 2,
+      "step_name": "single_leg_balance_with_overhead_reach",
+      "rough_end_time": 65.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "step_3",
+      "rough_end_time": 69.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "step_4",
+      "rough_end_time": 73.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "step_5",
+      "rough_end_time": 77.0,
+      "cue": ""
+    },
+    {
+      "step_number": 6,
+      "step_name": "step_6",
+      "rough_end_time": 81.0,
+      "cue": ""
+    },
+    {
+      "step_number": 7,
+      "step_name": "step_7",
+      "rough_end_time": 85.0,
+      "cue": ""
+    },
+    {
+      "step_number": 8,
+      "step_name": "step_8",
+      "rough_end_time": 89.0,
+      "cue": ""
+    },
+    {
+      "step_number": 9,
+      "step_name": "step_9",
+      "rough_end_time": 93.0,
+      "cue": ""
+    },
+    {
+      "step_number": 10,
+      "step_name": "step_10",
+      "rough_end_time": 94.0,
+      "cue": ""
+    },
+    {
+      "step_number": 11,
+      "step_name": "step_11",
+      "rough_end_time": null,
+      "cue": ""
+    },
+    {
+      "step_number": 12,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

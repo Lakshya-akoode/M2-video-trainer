@@ -1,0 +1,60 @@
+{
+  "exercise_name": "m-a104",
+  "total_duration_seconds": 87.55,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 25.0,
+      "cue": "start"
+    },
+    {
+      "step_number": 2,
+      "step_name": "side_raise_position",
+      "rough_end_time": 52.0,
+      "cue": "side raise position"
+    },
+    {
+      "step_number": 3,
+      "step_name": "raise_your_hands_up_and_down",
+      "rough_end_time": 57.0,
+      "cue": "raise your hands up and down"
+    },
+    {
+      "step_number": 4,
+      "step_name": "repeat_2",
+      "rough_end_time": 62.0,
+      "cue": "repeat 2"
+    },
+    {
+      "step_number": 5,
+      "step_name": "repeat_3",
+      "rough_end_time": 68.0,
+      "cue": "repeat 4"
+    },
+    {
+      "step_number": 6,
+      "step_name": "repeat_4",
+      "rough_end_time": 74.0,
+      "cue": "repeat 4"
+    },
+    {
+      "step_number": 7,
+      "step_name": "repeat_5",
+      "rough_end_time": 80.0,
+      "cue": "repeat 5"
+    },
+    {
+      "step_number": 8,
+      "step_name": "repeat_6",
+      "rough_end_time": 83.0,
+      "cue": "repeat 6"
+    },
+    {
+      "step_number": 9,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

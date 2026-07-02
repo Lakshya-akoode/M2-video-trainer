@@ -1,0 +1,30 @@
+{
+  "exercise_name": "m-a125",
+  "total_duration_seconds": 90.88,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 67.0,
+      "cue": "start"
+    },
+    {
+      "step_number": 2,
+      "step_name": "on_spot_running",
+      "rough_end_time": 75.0,
+      "cue": "On sorunning"
+    },
+    {
+      "step_number": 3,
+      "step_name": "repeat",
+      "rough_end_time": 85.0,
+      "cue": "repeat"
+    },
+    {
+      "step_number": 4,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

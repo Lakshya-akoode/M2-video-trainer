@@ -1,0 +1,30 @@
+{
+  "exercise_name": "m-a120",
+  "total_duration_seconds": 94.8,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 57.0,
+      "cue": "start"
+    },
+    {
+      "step_number": 2,
+      "step_name": "balanced_ball_hold_and_movements",
+      "rough_end_time": 74.0,
+      "cue": "Balanced Ball Hold and Movements"
+    },
+    {
+      "step_number": 3,
+      "step_name": "repeat",
+      "rough_end_time": 87.0,
+      "cue": "repeat"
+    },
+    {
+      "step_number": 4,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

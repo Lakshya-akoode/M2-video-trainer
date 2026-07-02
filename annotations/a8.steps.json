@@ -1,0 +1,48 @@
+{
+  "exercise_name": "a8",
+  "total_duration_seconds": 70.4,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start_pposition",
+      "rough_end_time": 8.0,
+      "cue": "start position"
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_down_on_your_back",
+      "rough_end_time": 34.0,
+      "cue": "lay down on your back"
+    },
+    {
+      "step_number": 3,
+      "step_name": "raise_your_legs_up_and_hold",
+      "rough_end_time": 46.0,
+      "cue": "raise your legs up and hold"
+    },
+    {
+      "step_number": 4,
+      "step_name": "while_holding_strech_knees_outwards",
+      "rough_end_time": 53.0,
+      "cue": "while holding strectch knees outwards and inwards"
+    },
+    {
+      "step_number": 5,
+      "step_name": "whil",
+      "rough_end_time": 60.0,
+      "cue": "repeat"
+    },
+    {
+      "step_number": 6,
+      "step_name": "repeat",
+      "rough_end_time": 65.0,
+      "cue": "repeat"
+    },
+    {
+      "step_number": 7,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

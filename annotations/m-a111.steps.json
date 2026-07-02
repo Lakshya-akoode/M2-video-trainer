@@ -1,0 +1,126 @@
+{
+  "exercise_name": "m-a111",
+  "total_duration_seconds": 91.76,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 21.0,
+      "cue": "start"
+    },
+    {
+      "step_number": 2,
+      "step_name": "jump_on_spot",
+      "rough_end_time": 22.0,
+      "cue": "Jump on Spot"
+    },
+    {
+      "step_number": 3,
+      "step_name": "step_3",
+      "rough_end_time": 25.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "step_4",
+      "rough_end_time": 29.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "step_5",
+      "rough_end_time": 32.0,
+      "cue": ""
+    },
+    {
+      "step_number": 6,
+      "step_name": "step_6",
+      "rough_end_time": 35.0,
+      "cue": ""
+    },
+    {
+      "step_number": 7,
+      "step_name": "step_7",
+      "rough_end_time": 39.0,
+      "cue": ""
+    },
+    {
+      "step_number": 8,
+      "step_name": "step_8",
+      "rough_end_time": 42.0,
+      "cue": ""
+    },
+    {
+      "step_number": 9,
+      "step_name": "step_9",
+      "rough_end_time": 45.0,
+      "cue": ""
+    },
+    {
+      "step_number": 10,
+      "step_name": "step_10",
+      "rough_end_time": 49.0,
+      "cue": ""
+    },
+    {
+      "step_number": 11,
+      "step_name": "step_11",
+      "rough_end_time": 53.0,
+      "cue": ""
+    },
+    {
+      "step_number": 12,
+      "step_name": "step_12",
+      "rough_end_time": 56.0,
+      "cue": ""
+    },
+    {
+      "step_number": 13,
+      "step_name": "step_13",
+      "rough_end_time": 59.0,
+      "cue": ""
+    },
+    {
+      "step_number": 14,
+      "step_name": "step_14",
+      "rough_end_time": 63.0,
+      "cue": ""
+    },
+    {
+      "step_number": 15,
+      "step_name": "step_15",
+      "rough_end_time": 65.0,
+      "cue": ""
+    },
+    {
+      "step_number": 16,
+      "step_name": "step_16",
+      "rough_end_time": 69.0,
+      "cue": ""
+    },
+    {
+      "step_number": 17,
+      "step_name": "step_17",
+      "rough_end_time": 72.0,
+      "cue": ""
+    },
+    {
+      "step_number": 18,
+      "step_name": "step_18",
+      "rough_end_time": 76.0,
+      "cue": ""
+    },
+    {
+      "step_number": 19,
+      "step_name": "79",
+      "rough_end_time": 79.0,
+      "cue": ""
+    },
+    {
+      "step_number": 20,
+      "step_name": "step_20",
+      "rough_end_time": null,
+      "cue": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "exercise_name": "m-a105",
+  "total_duration_seconds": 72.74,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 22.0,
+      "cue": "start"
+    },
+    {
+      "step_number": 2,
+      "step_name": "hold_hands_at_back_and_lean_forward",
+      "rough_end_time": 50.0,
+      "cue": "hold"
+    },
+    {
+      "step_number": 3,
+      "step_name": "hold",
+      "rough_end_time": 67.0,
+      "cue": "hold"
+    },
+    {
+      "step_number": 4,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

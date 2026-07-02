@@ -1,0 +1,66 @@
+{
+  "exercise_name": "m-a118",
+  "total_duration_seconds": 74.53,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 38.0,
+      "cue": "start"
+    },
+    {
+      "step_number": 2,
+      "step_name": "lateral_band_walks",
+      "rough_end_time": 43.0,
+      "cue": "Lateral Band Walks"
+    },
+    {
+      "step_number": 3,
+      "step_name": "step_3",
+      "rough_end_time": 47.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "step_4",
+      "rough_end_time": 51.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "step_5",
+      "rough_end_time": 55.0,
+      "cue": ""
+    },
+    {
+      "step_number": 6,
+      "step_name": "step_6",
+      "rough_end_time": 59.0,
+      "cue": ""
+    },
+    {
+      "step_number": 7,
+      "step_name": "step_7",
+      "rough_end_time": 62.0,
+      "cue": ""
+    },
+    {
+      "step_number": 8,
+      "step_name": "step_8",
+      "rough_end_time": 66.0,
+      "cue": ""
+    },
+    {
+      "step_number": 9,
+      "step_name": "step_9",
+      "rough_end_time": 70.0,
+      "cue": ""
+    },
+    {
+      "step_number": 10,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

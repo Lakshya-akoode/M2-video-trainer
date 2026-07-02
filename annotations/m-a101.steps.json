@@ -1,0 +1,54 @@
+{
+  "exercise_name": "m-a101",
+  "total_duration_seconds": 104.52,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 22.0,
+      "cue": "start"
+    },
+    {
+      "step_number": 2,
+      "step_name": "bridge_using_knees_and_hands",
+      "rough_end_time": 69.0,
+      "cue": "bridge using knees and hands"
+    },
+    {
+      "step_number": 3,
+      "step_name": "extend_your_leg_and_back",
+      "rough_end_time": 80.0,
+      "cue": "extend your leg and back"
+    },
+    {
+      "step_number": 4,
+      "step_name": "repeat_2",
+      "rough_end_time": 88.0,
+      "cue": "repeat 2"
+    },
+    {
+      "step_number": 5,
+      "step_name": "repeat_3",
+      "rough_end_time": 92.0,
+      "cue": "repeat 3"
+    },
+    {
+      "step_number": 6,
+      "step_name": "repeat_4",
+      "rough_end_time": 97.0,
+      "cue": "repeat 4"
+    },
+    {
+      "step_number": 7,
+      "step_name": "repeat_5",
+      "rough_end_time": 100.0,
+      "cue": "repeat 5"
+    },
+    {
+      "step_number": 8,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

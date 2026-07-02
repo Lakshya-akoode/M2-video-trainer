@@ -1,0 +1,30 @@
+{
+  "exercise_name": "m-a124",
+  "total_duration_seconds": 98.6,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 68.0,
+      "cue": "start"
+    },
+    {
+      "step_number": 2,
+      "step_name": "sitting_qquad_hold_and_cycle",
+      "rough_end_time": 80.0,
+      "cue": "Sitting Quad Hold and Cycle"
+    },
+    {
+      "step_number": 3,
+      "step_name": "repeat",
+      "rough_end_time": 93.0,
+      "cue": "repeat"
+    },
+    {
+      "step_number": 4,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

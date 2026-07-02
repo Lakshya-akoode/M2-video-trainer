@@ -1,0 +1,42 @@
+{
+  "exercise_name": "m-a121",
+  "total_duration_seconds": 89.09,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 57.0,
+      "cue": "start"
+    },
+    {
+      "step_number": 2,
+      "step_name": "stand_up",
+      "rough_end_time": 66.0,
+      "cue": "stand up"
+    },
+    {
+      "step_number": 3,
+      "step_name": "sit_down",
+      "rough_end_time": 70.0,
+      "cue": "sit down"
+    },
+    {
+      "step_number": 4,
+      "step_name": "stand_up",
+      "rough_end_time": 80.0,
+      "cue": "stand up"
+    },
+    {
+      "step_number": 5,
+      "step_name": "sit_down",
+      "rough_end_time": 83.0,
+      "cue": "sit down"
+    },
+    {
+      "step_number": 6,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "exercise_name": "m-a110",
+  "total_duration_seconds": 88.96,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 53.0,
+      "cue": "start"
+    },
+    {
+      "step_number": 2,
+      "step_name": "side_leg_raise/kicks",
+      "rough_end_time": 56.0,
+      "cue": "Side Leg Raise/Kicks"
+    },
+    {
+      "step_number": 3,
+      "step_name": "step_3",
+      "rough_end_time": 60.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "step_4",
+      "rough_end_time": 64.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "step_5",
+      "rough_end_time": 68.0,
+      "cue": ""
+    },
+    {
+      "step_number": 6,
+      "step_name": "step_6",
+      "rough_end_time": 72.0,
+      "cue": ""
+    },
+    {
+      "step_number": 7,
+      "step_name": "step_7",
+      "rough_end_time": 76.0,
+      "cue": ""
+    },
+    {
+      "step_number": 8,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

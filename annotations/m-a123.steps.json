@@ -1,0 +1,36 @@
+{
+  "exercise_name": "m-a123",
+  "total_duration_seconds": 105.69,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 32.0,
+      "cue": "start"
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_down",
+      "rough_end_time": 72.0,
+      "cue": "lay down"
+    },
+    {
+      "step_number": 3,
+      "step_name": "glute_bride_and_cycle_and_overhead_ball_press",
+      "rough_end_time": 84.0,
+      "cue": "Glute Bridge and Cycle and OverHead Ball Press"
+    },
+    {
+      "step_number": 4,
+      "step_name": "repeat",
+      "rough_end_time": 94.0,
+      "cue": "repeat"
+    },
+    {
+      "step_number": 5,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

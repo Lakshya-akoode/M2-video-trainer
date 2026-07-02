@@ -1,0 +1,30 @@
+{
+  "exercise_name": "a9",
+  "total_duration_seconds": 80.62,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 24.0,
+      "cue": "start"
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_down_sideways",
+      "rough_end_time": 65.0,
+      "cue": "lay down sideways"
+    },
+    {
+      "step_number": 3,
+      "step_name": "lift_your_leg_up_straight_and_hold",
+      "rough_end_time": 73.0,
+      "cue": "lift your leg up straight and hold and back"
+    },
+    {
+      "step_number": 4,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

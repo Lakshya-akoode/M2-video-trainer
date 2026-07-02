@@ -1,0 +1,48 @@
+{
+  "exercise_name": "m-a100",
+  "total_duration_seconds": 85.21,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 52.0,
+      "cue": "start"
+    },
+    {
+      "step_number": 2,
+      "step_name": "side_lunges",
+      "rough_end_time": 57.0,
+      "cue": "side lunges 1"
+    },
+    {
+      "step_number": 3,
+      "step_name": "left_leg_side_lunges_2",
+      "rough_end_time": 61.0,
+      "cue": "left leg side lunges 2"
+    },
+    {
+      "step_number": 4,
+      "step_name": "left_leg_side_lunges_3",
+      "rough_end_time": 66.0,
+      "cue": "left leg side lunges 3"
+    },
+    {
+      "step_number": 5,
+      "step_name": "right_leg_side_lunges_1",
+      "rough_end_time": 70.0,
+      "cue": "right leg side lunges 1"
+    },
+    {
+      "step_number": 6,
+      "step_name": "right_leg_side_lunges_2",
+      "rough_end_time": 73.0,
+      "cue": "right leg side lunges 2"
+    },
+    {
+      "step_number": 7,
+      "step_name": "right_leg_side_lunges_3",
+      "rough_end_time": null,
+      "cue": "right leg side lunges 3 and relax"
+    }
+  ]
+}

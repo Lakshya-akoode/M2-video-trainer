@@ -1,0 +1,42 @@
+{
+  "exercise_name": "m-a102",
+  "total_duration_seconds": 89.96,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 49.0,
+      "cue": "start"
+    },
+    {
+      "step_number": 2,
+      "step_name": "both_hands_straight_up_and_down",
+      "rough_end_time": 60.0,
+      "cue": "both hands up and down"
+    },
+    {
+      "step_number": 3,
+      "step_name": "repeat_1",
+      "rough_end_time": 65.0,
+      "cue": "repeat 1"
+    },
+    {
+      "step_number": 4,
+      "step_name": "repeat_2",
+      "rough_end_time": 71.0,
+      "cue": "repeat 2"
+    },
+    {
+      "step_number": 5,
+      "step_name": "repeat_3",
+      "rough_end_time": 78.0,
+      "cue": "repeat 3"
+    },
+    {
+      "step_number": 6,
+      "step_name": "repeat_4_and_relax",
+      "rough_end_time": null,
+      "cue": "repeat 4 and relax"
+    }
+  ]
+}

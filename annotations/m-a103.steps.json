@@ -1,0 +1,48 @@
+{
+  "exercise_name": "m-a103",
+  "total_duration_seconds": 79.75,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 48.0,
+      "cue": "start"
+    },
+    {
+      "step_number": 2,
+      "step_name": "left_hand_straight_backward_and_back",
+      "rough_end_time": 53.0,
+      "cue": "left hand backward and back"
+    },
+    {
+      "step_number": 3,
+      "step_name": "repeat_2",
+      "rough_end_time": 58.0,
+      "cue": "repeat 2"
+    },
+    {
+      "step_number": 4,
+      "step_name": "repeat_3",
+      "rough_end_time": 63.0,
+      "cue": "repeat 3"
+    },
+    {
+      "step_number": 5,
+      "step_name": "right_hand_straight_and_back",
+      "rough_end_time": 68.0,
+      "cue": "right hand straight and back"
+    },
+    {
+      "step_number": 6,
+      "step_name": "repeat_2",
+      "rough_end_time": 72.0,
+      "cue": "repeat 2"
+    },
+    {
+      "step_number": 7,
+      "step_name": "repeat_and_relax",
+      "rough_end_time": null,
+      "cue": "repeat and relax"
+    }
+  ]
+}
