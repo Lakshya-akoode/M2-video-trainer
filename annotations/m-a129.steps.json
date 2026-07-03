@@ -1,0 +1,42 @@
+{
+  "exercise_name": "m-a129",
+  "total_duration_seconds": 109.73,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 60.0,
+      "cue": "start"
+    },
+    {
+      "step_number": 2,
+      "step_name": "squat_and_hold",
+      "rough_end_time": 70.0,
+      "cue": "squat and hold"
+    },
+    {
+      "step_number": 3,
+      "step_name": "rotate_ball_clockwise",
+      "rough_end_time": 86.0,
+      "cue": "Rotate Ball ClockWise"
+    },
+    {
+      "step_number": 4,
+      "step_name": "keep_hold",
+      "rough_end_time": 91.0,
+      "cue": "Keep hold"
+    },
+    {
+      "step_number": 5,
+      "step_name": "rotate_ball_clockwise",
+      "rough_end_time": 94.0,
+      "cue": "Rotate Ball ClockWise"
+    },
+    {
+      "step_number": 6,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

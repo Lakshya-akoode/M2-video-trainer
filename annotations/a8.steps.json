@@ -4,7 +4,7 @@
   "steps": [
     {
       "step_number": 1,
-      "step_name": "start_pposition",
+      "step_name": "start_position",
       "rough_end_time": 8.0,
       "cue": "start position"
     },
@@ -22,13 +22,13 @@
     },
     {
       "step_number": 4,
-      "step_name": "while_holding_strech_knees_outwards",
+      "step_name": "while_holding_strech_knees_outwards_and_inwards",
       "rough_end_time": 53.0,
       "cue": "while holding strectch knees outwards and inwards"
     },
     {
       "step_number": 5,
-      "step_name": "whil",
+      "step_name": "repeat",
       "rough_end_time": 60.0,
       "cue": "repeat"
     },

@@ -1,0 +1,36 @@
+{
+  "exercise_name": "m-a128",
+  "total_duration_seconds": 99.31,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 36.0,
+      "cue": "start"
+    },
+    {
+      "step_number": 2,
+      "step_name": "hold_ball_in_front",
+      "rough_end_time": 59.0,
+      "cue": "hold ball in front"
+    },
+    {
+      "step_number": 3,
+      "step_name": "sit_on_knee",
+      "rough_end_time": 79.0,
+      "cue": "sit on knees"
+    },
+    {
+      "step_number": 4,
+      "step_name": "change_leg_and_repeat",
+      "rough_end_time": 95.0,
+      "cue": "change leg and repeat"
+    },
+    {
+      "step_number": 5,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "exercise_name": "m-a127",
+  "total_duration_seconds": 91.26,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 62.0,
+      "cue": "start"
+    },
+    {
+      "step_number": 2,
+      "step_name": "ball_squat_and_reach",
+      "rough_end_time": 73.0,
+      "cue": "Ball Squat and Reach"
+    },
+    {
+      "step_number": 3,
+      "step_name": "repeat",
+      "rough_end_time": 86.0,
+      "cue": "repeat"
+    },
+    {
+      "step_number": 4,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}
