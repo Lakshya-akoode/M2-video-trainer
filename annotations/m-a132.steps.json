@@ -1,0 +1,66 @@
+{
+  "exercise_name": "m-a132",
+  "total_duration_seconds": 86.04,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "stand_straight",
+      "rough_end_time": 25.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "stand_on_the_elevated_foam",
+      "rough_end_time": 32.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "put_the_ball_in_front",
+      "rough_end_time": 59.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "do_halft_squat",
+      "rough_end_time": 63.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "ut_the_right_leg_in_front_while_squating_and_the_ball_too",
+      "rough_end_time": 68.0,
+      "cue": ""
+    },
+    {
+      "step_number": 6,
+      "step_name": "stand_straight",
+      "rough_end_time": 73.0,
+      "cue": ""
+    },
+    {
+      "step_number": 7,
+      "step_name": "do_half_squat",
+      "rough_end_time": 75.0,
+      "cue": ""
+    },
+    {
+      "step_number": 8,
+      "step_name": "put_the_right_leg_in_front",
+      "rough_end_time": 79.0,
+      "cue": ""
+    },
+    {
+      "step_number": 9,
+      "step_name": "get_back_on_the_squat_postion",
+      "rough_end_time": 83.0,
+      "cue": ""
+    },
+    {
+      "step_number": 10,
+      "step_name": "stand_straight",
+      "rough_end_time": null,
+      "cue": ""
+    }
+  ]
+}

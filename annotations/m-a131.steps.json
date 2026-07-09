@@ -1,0 +1,66 @@
+{
+  "exercise_name": "m-a131",
+  "total_duration_seconds": 108.19,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "stand_straight",
+      "rough_end_time": 26.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "stnad_on_the_block_of_foam",
+      "rough_end_time": 31.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "put_the_ball_in_front",
+      "rough_end_time": 63.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "bend_and_pull_the_left_leg_up",
+      "rough_end_time": 69.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "stand_striaght_on_single_leg",
+      "rough_end_time": 75.0,
+      "cue": ""
+    },
+    {
+      "step_number": 6,
+      "step_name": "stand_on_both_legs",
+      "rough_end_time": 77.0,
+      "cue": ""
+    },
+    {
+      "step_number": 7,
+      "step_name": "go_in_half_squat",
+      "rough_end_time": 85.0,
+      "cue": ""
+    },
+    {
+      "step_number": 8,
+      "step_name": "pull_the_right_leg_up",
+      "rough_end_time": 97.0,
+      "cue": ""
+    },
+    {
+      "step_number": 9,
+      "step_name": "stand_straight_on_single_leg",
+      "rough_end_time": 102.0,
+      "cue": ""
+    },
+    {
+      "step_number": 10,
+      "step_name": "stand_striaght",
+      "rough_end_time": null,
+      "cue": ""
+    }
+  ]
+}
