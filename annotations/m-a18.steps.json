@@ -1,0 +1,24 @@
+{
+  "exercise_name": "m-a18",
+  "total_duration_seconds": 95.22,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "lay_down_on_the_back_with_the_pillow_below_the_knees",
+      "rough_end_time": 40.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "spread_knees_wide",
+      "rough_end_time": 84.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "squeeze_the_knees_again",
+      "rough_end_time": null,
+      "cue": ""
+    }
+  ]
+}

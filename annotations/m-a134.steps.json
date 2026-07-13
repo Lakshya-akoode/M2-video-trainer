@@ -1,0 +1,36 @@
+{
+  "exercise_name": "m-a134",
+  "total_duration_seconds": 120.16,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "stand_straight",
+      "rough_end_time": 32.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "stand_on_the_elevated_foam",
+      "rough_end_time": 37.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "hold_the_ball_in_front",
+      "rough_end_time": 70.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "lift_the_left_leg_up_and_tilt_the_body_side_ways",
+      "rough_end_time": 93.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "now_with_the_other_leg",
+      "rough_end_time": null,
+      "cue": ""
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "exercise_name": "m-a135",
+  "total_duration_seconds": 104.85,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "stand_straight",
+      "rough_end_time": 32.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "stand_on_the_elevated_foam",
+      "rough_end_time": 37.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "hold_the_ball_in_front",
+      "rough_end_time": 65.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "do_half_squat",
+      "rough_end_time": 75.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "do_as_in_the_video",
+      "rough_end_time": null,
+      "cue": ""
+    }
+  ]
+}

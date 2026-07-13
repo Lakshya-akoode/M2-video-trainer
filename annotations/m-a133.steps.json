@@ -1,0 +1,48 @@
+{
+  "exercise_name": "m-a133",
+  "total_duration_seconds": 86.63,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "stand_straight",
+      "rough_end_time": 25.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "stand_on_the_elvated_foam",
+      "rough_end_time": 30.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "hold_the_ball_in_front",
+      "rough_end_time": 50.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "do_squat_and_hold_ball_in_front",
+      "rough_end_time": 58.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "rotate_the_clockwise",
+      "rough_end_time": 70.0,
+      "cue": ""
+    },
+    {
+      "step_number": 6,
+      "step_name": "rotate_in_anti-clockwise",
+      "rough_end_time": 80.0,
+      "cue": ""
+    },
+    {
+      "step_number": 7,
+      "step_name": "stand_straight",
+      "rough_end_time": null,
+      "cue": ""
+    }
+  ]
+}
