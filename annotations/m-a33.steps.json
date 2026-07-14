@@ -1,0 +1,66 @@
+{
+  "exercise_name": "m-a33",
+  "total_duration_seconds": 93.34,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 17.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_down",
+      "rough_end_time": 50.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "hold_your_legs_up",
+      "rough_end_time": 60.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "right_leg_down",
+      "rough_end_time": 65.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "left_leg_down",
+      "rough_end_time": 69.0,
+      "cue": ""
+    },
+    {
+      "step_number": 6,
+      "step_name": "again_right",
+      "rough_end_time": 73.0,
+      "cue": ""
+    },
+    {
+      "step_number": 7,
+      "step_name": "again_left",
+      "rough_end_time": 77.0,
+      "cue": ""
+    },
+    {
+      "step_number": 8,
+      "step_name": "again_right",
+      "rough_end_time": 81.0,
+      "cue": ""
+    },
+    {
+      "step_number": 9,
+      "step_name": "again_left",
+      "rough_end_time": 85.0,
+      "cue": ""
+    },
+    {
+      "step_number": 10,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

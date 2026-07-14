@@ -1,0 +1,36 @@
+{
+  "exercise_name": "m-a35",
+  "total_duration_seconds": 91.93,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 29.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "form_a_bridge",
+      "rough_end_time": 50.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "strech_right_leg_and_left_hand",
+      "rough_end_time": 69.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "strech_left_hand_left_leg",
+      "rough_end_time": 86.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

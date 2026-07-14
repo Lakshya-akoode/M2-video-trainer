@@ -1,0 +1,36 @@
+{
+  "exercise_name": "m-a27",
+  "total_duration_seconds": 92.05,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 8.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "spread_your_legs",
+      "rough_end_time": 30.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "bend_forward_and_use_your_hands_to_touch_the_ground",
+      "rough_end_time": 80.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "relax",
+      "rough_end_time": 85.0,
+      "cue": "relax"
+    },
+    {
+      "step_number": 5,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

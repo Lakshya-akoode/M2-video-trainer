@@ -1,0 +1,36 @@
+{
+  "exercise_name": "m-a37",
+  "total_duration_seconds": 89.13,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 20.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_down",
+      "rough_end_time": 58.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "raise_right_leg_and_hold",
+      "rough_end_time": 74.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "raise_left_leg_and__hold",
+      "rough_end_time": 84.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "exercise_name": "m-a48",
+  "total_duration_seconds": 86.42,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 21.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "bridge_on_elbows_and_toes",
+      "rough_end_time": 52.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "elbow_to_hands",
+      "rough_end_time": 57.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "hands_to_elbow",
+      "rough_end_time": 61.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "repeat",
+      "rough_end_time": 64.0,
+      "cue": ""
+    },
+    {
+      "step_number": 6,
+      "step_name": "repeat",
+      "rough_end_time": 67.0,
+      "cue": ""
+    },
+    {
+      "step_number": 7,
+      "step_name": "repeat",
+      "rough_end_time": 71.0,
+      "cue": ""
+    },
+    {
+      "step_number": 8,
+      "step_name": "repeat",
+      "rough_end_time": 75.0,
+      "cue": ""
+    },
+    {
+      "step_number": 9,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

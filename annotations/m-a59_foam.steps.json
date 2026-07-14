@@ -1,0 +1,78 @@
+{
+  "exercise_name": "m-a59 foam",
+  "total_duration_seconds": 101.85,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 30.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "stand_on_your_knees",
+      "rough_end_time": 63.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "raise_your_arms_to_the_shoulder_level",
+      "rough_end_time": 68.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "kneeling_side_lunge",
+      "rough_end_time": 72.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "repeat",
+      "rough_end_time": 76.0,
+      "cue": ""
+    },
+    {
+      "step_number": 6,
+      "step_name": "repeat",
+      "rough_end_time": 80.0,
+      "cue": ""
+    },
+    {
+      "step_number": 7,
+      "step_name": "repeat",
+      "rough_end_time": 84.0,
+      "cue": ""
+    },
+    {
+      "step_number": 8,
+      "step_name": "repeat",
+      "rough_end_time": 88.0,
+      "cue": ""
+    },
+    {
+      "step_number": 9,
+      "step_name": "repeat",
+      "rough_end_time": 93.0,
+      "cue": ""
+    },
+    {
+      "step_number": 10,
+      "step_name": "repeat",
+      "rough_end_time": 97.0,
+      "cue": ""
+    },
+    {
+      "step_number": 11,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    },
+    {
+      "step_number": 12,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

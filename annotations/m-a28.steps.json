@@ -1,0 +1,36 @@
+{
+  "exercise_name": "m-a28",
+  "total_duration_seconds": 78.12,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 26.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "sit_on_your_knees_and_relax",
+      "rough_end_time": 30.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "spread_your_legs_wide",
+      "rough_end_time": 42.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "lean_on_the_chair",
+      "rough_end_time": 70.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

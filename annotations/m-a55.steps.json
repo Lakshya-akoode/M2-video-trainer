@@ -1,0 +1,48 @@
+{
+  "exercise_name": "m-a55",
+  "total_duration_seconds": 73.95,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 27.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_down_legs_straight_with_hands_below_your_head",
+      "rough_end_time": 53.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "crunches",
+      "rough_end_time": 56.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "repeat",
+      "rough_end_time": 60.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "repeat",
+      "rough_end_time": 64.0,
+      "cue": ""
+    },
+    {
+      "step_number": 6,
+      "step_name": "repeat",
+      "rough_end_time": 68.0,
+      "cue": ""
+    },
+    {
+      "step_number": 7,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

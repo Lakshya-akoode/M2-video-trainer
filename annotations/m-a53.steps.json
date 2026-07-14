@@ -1,0 +1,84 @@
+{
+  "exercise_name": "m-a53",
+  "total_duration_seconds": 85.0,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 27.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_down_on_your_back_with_knees_folded_and_hands_over_your_head",
+      "rough_end_time": 56.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "raise_your_upper_body_and_hold",
+      "rough_end_time": 61.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "raise_right_leg_up_and_down",
+      "rough_end_time": 64.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "repeat_with_other_leg",
+      "rough_end_time": 67.0,
+      "cue": ""
+    },
+    {
+      "step_number": 6,
+      "step_name": "repeat_with_other_leg",
+      "rough_end_time": 70.0,
+      "cue": ""
+    },
+    {
+      "step_number": 7,
+      "step_name": "repeat_with_other_leg",
+      "rough_end_time": 73.0,
+      "cue": ""
+    },
+    {
+      "step_number": 8,
+      "step_name": "repeat_with_other_leg",
+      "rough_end_time": 77.0,
+      "cue": ""
+    },
+    {
+      "step_number": 9,
+      "step_name": "repeat_with_other_leg",
+      "rough_end_time": 80.0,
+      "cue": ""
+    },
+    {
+      "step_number": 10,
+      "step_name": "repeat_withn_other_leg",
+      "rough_end_time": 83.0,
+      "cue": ""
+    },
+    {
+      "step_number": 11,
+      "step_name": "repeat_with_other_leg",
+      "rough_end_time": 84.0,
+      "cue": ""
+    },
+    {
+      "step_number": 12,
+      "step_name": "step_12",
+      "rough_end_time": null,
+      "cue": ""
+    },
+    {
+      "step_number": 13,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

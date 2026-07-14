@@ -1,0 +1,48 @@
+{
+  "exercise_name": "m-a68",
+  "total_duration_seconds": 97.85,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 63.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "squat",
+      "rough_end_time": 71.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "repeat",
+      "rough_end_time": 81.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "repeat",
+      "rough_end_time": 89.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "repeat",
+      "rough_end_time": 95.0,
+      "cue": ""
+    },
+    {
+      "step_number": 6,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    },
+    {
+      "step_number": 7,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

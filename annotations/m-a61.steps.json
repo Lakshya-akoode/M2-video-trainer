@@ -1,0 +1,48 @@
+{
+  "exercise_name": "m-a61",
+  "total_duration_seconds": 101.85,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 28.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "stand_on_knees",
+      "rough_end_time": 60.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "stretch_your_hands_and_rotate_from_right_to_left",
+      "rough_end_time": 75.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "repeat",
+      "rough_end_time": 80.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "repeat",
+      "rough_end_time": 89.0,
+      "cue": ""
+    },
+    {
+      "step_number": 6,
+      "step_name": "repeat",
+      "rough_end_time": 95.0,
+      "cue": ""
+    },
+    {
+      "step_number": 7,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

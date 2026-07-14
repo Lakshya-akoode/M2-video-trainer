@@ -1,0 +1,30 @@
+{
+  "exercise_name": "m-a64",
+  "total_duration_seconds": 73.82,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 20.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "lean_forward",
+      "rough_end_time": 48.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "keep_hands_on_waist",
+      "rough_end_time": 67.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "exercise_name": "m-a41",
+  "total_duration_seconds": 109.19,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 27.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_down_flat",
+      "rough_end_time": 63.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "hands_behind_head_and_strech_and_hold",
+      "rough_end_time": 108.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

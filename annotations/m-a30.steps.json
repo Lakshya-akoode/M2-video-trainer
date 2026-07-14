@@ -1,0 +1,30 @@
+{
+  "exercise_name": "m-a30",
+  "total_duration_seconds": 70.2,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 20.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_down",
+      "rough_end_time": 33.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "stretch_yours_hands_and_hold",
+      "rough_end_time": 64.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

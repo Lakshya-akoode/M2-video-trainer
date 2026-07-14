@@ -1,0 +1,36 @@
+{
+  "exercise_name": "m-a38",
+  "total_duration_seconds": 102.35,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 32.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_down_with_hands_straight",
+      "rough_end_time": 68.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "raise_your_right_hand_and_left_leg",
+      "rough_end_time": 83.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "raise_your_left_hand_and_right_leg",
+      "rough_end_time": 97.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

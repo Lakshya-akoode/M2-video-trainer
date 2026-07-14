@@ -1,0 +1,42 @@
+{
+  "exercise_name": "m-a52",
+  "total_duration_seconds": 82.33,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 26.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_down_on_your_back_with_hands_over_your_head",
+      "rough_end_time": 62.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "crunches",
+      "rough_end_time": 67.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "repeat",
+      "rough_end_time": 74.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "repeat",
+      "rough_end_time": 79.0,
+      "cue": ""
+    },
+    {
+      "step_number": 6,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

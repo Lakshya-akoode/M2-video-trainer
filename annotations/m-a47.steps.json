@@ -1,0 +1,42 @@
+{
+  "exercise_name": "m-a47",
+  "total_duration_seconds": 101.27,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 28.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_down_sideways",
+      "rough_end_time": 41.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "put_your_hands_on_head_and_get_ready_for_side_crunches",
+      "rough_end_time": 68.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "crunch_1",
+      "rough_end_time": 81.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "crunch_2",
+      "rough_end_time": 96.0,
+      "cue": ""
+    },
+    {
+      "step_number": 6,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

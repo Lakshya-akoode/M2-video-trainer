@@ -1,0 +1,30 @@
+{
+  "exercise_name": "m-a46",
+  "total_duration_seconds": 94.18,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 30.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_down_sideways",
+      "rough_end_time": 67.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "raise_your_legs_up",
+      "rough_end_time": 87.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

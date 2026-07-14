@@ -1,0 +1,36 @@
+{
+  "exercise_name": "m-a32",
+  "total_duration_seconds": 94.26,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 28.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_down_with_knees_fold",
+      "rough_end_time": 50.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "raise_your_legs_and_hold",
+      "rough_end_time": 66.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "ossilate_legs_from_left_to_right_and_again",
+      "rough_end_time": 83.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

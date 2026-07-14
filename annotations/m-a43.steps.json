@@ -1,0 +1,30 @@
+{
+  "exercise_name": "m-a43",
+  "total_duration_seconds": 96.3,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 26.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "elbows_and_knees_o_the_floor",
+      "rough_end_time": 66.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "bridge_using_toes_and_elbows",
+      "rough_end_time": 89.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

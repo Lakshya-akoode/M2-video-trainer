@@ -1,0 +1,42 @@
+{
+  "exercise_name": "m-a50",
+  "total_duration_seconds": 97.43,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 24.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_down_on_your_back_with_knees_folded",
+      "rough_end_time": 59.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "raise_abdomen_and_hold",
+      "rough_end_time": 69.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "straighten_your_right_leg",
+      "rough_end_time": 81.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "straighten_your_left_leg",
+      "rough_end_time": 91.0,
+      "cue": ""
+    },
+    {
+      "step_number": 6,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

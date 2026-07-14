@@ -1,0 +1,48 @@
+{
+  "exercise_name": "m-a63",
+  "total_duration_seconds": 96.55,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 29.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "stand_on_knees",
+      "rough_end_time": 60.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "kneeling_upper_back_stretch",
+      "rough_end_time": 73.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "repeat",
+      "rough_end_time": 80.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "repeat",
+      "rough_end_time": 86.0,
+      "cue": ""
+    },
+    {
+      "step_number": 6,
+      "step_name": "repeat",
+      "rough_end_time": 94.0,
+      "cue": ""
+    },
+    {
+      "step_number": 7,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

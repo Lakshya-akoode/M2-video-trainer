@@ -1,0 +1,36 @@
+{
+  "exercise_name": "m-a58 foam",
+  "total_duration_seconds": 94.76,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 35.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "sitting_position",
+      "rough_end_time": 69.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "raise_your_feets_up_and_hold",
+      "rough_end_time": 77.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "cycle",
+      "rough_end_time": 89.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "exercise_name": "m-a49",
+  "total_duration_seconds": 83.63,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 22.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "bridge_using_elbows_and_toes",
+      "rough_end_time": 53.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "switch_to_hands",
+      "rough_end_time": 59.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "raise_your_right_leg_outward",
+      "rough_end_time": 68.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "raise_your_left_leg_outward",
+      "rough_end_time": 75.0,
+      "cue": ""
+    },
+    {
+      "step_number": 6,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}
