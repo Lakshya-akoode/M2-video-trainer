@@ -1,0 +1,48 @@
+{
+  "exercise_name": "m-a79",
+  "total_duration_seconds": 64.81,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 19.0,
+      "cue": "take position"
+    },
+    {
+      "step_number": 2,
+      "step_name": "take_position",
+      "rough_end_time": 41.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "crunches",
+      "rough_end_time": 48.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "repeat",
+      "rough_end_time": 52.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "repeat",
+      "rough_end_time": 57.0,
+      "cue": ""
+    },
+    {
+      "step_number": 6,
+      "step_name": "repeat",
+      "rough_end_time": 62.0,
+      "cue": ""
+    },
+    {
+      "step_number": 7,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "exercise_name": "m-a80",
+  "total_duration_seconds": 67.82,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 21.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_down_on_the_roller",
+      "rough_end_time": 40.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "put_your_hands_beehind_your_head_and_touch_elbows_to_ground",
+      "rough_end_time": 61.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

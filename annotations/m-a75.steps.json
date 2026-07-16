@@ -1,0 +1,36 @@
+{
+  "exercise_name": "m-a75",
+  "total_duration_seconds": 102.48,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 28.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "hold_the_chair",
+      "rough_end_time": 66.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "standing_hip_extension",
+      "rough_end_time": 82.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "repeat",
+      "rough_end_time": 94.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "exercise_name": "m-a78",
+  "total_duration_seconds": 65.57,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 19.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "lay_down_with_knees_folded",
+      "rough_end_time": 37.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "using_your_hands_hold_your_knees_close",
+      "rough_end_time": 58.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

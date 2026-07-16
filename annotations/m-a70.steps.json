@@ -1,0 +1,36 @@
+{
+  "exercise_name": "m-a70",
+  "total_duration_seconds": 97.85,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 51.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "raise_your_hands_up_straight",
+      "rough_end_time": 56.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "touch_feets_with_hand",
+      "rough_end_time": 78.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "repeat",
+      "rough_end_time": 91.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

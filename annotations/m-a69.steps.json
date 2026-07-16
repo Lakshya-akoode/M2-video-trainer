@@ -1,0 +1,36 @@
+{
+  "exercise_name": "m-a69",
+  "total_duration_seconds": 104.35,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 65.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "raise_both_hands_up",
+      "rough_end_time": 70.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "lean_towards_left",
+      "rough_end_time": 86.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "lean_towards_right",
+      "rough_end_time": 100.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

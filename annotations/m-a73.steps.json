@@ -1,0 +1,120 @@
+{
+  "exercise_name": "m-a73",
+  "total_duration_seconds": 90.55,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 63.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "standing_knee_raises",
+      "rough_end_time": 64.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "repeat",
+      "rough_end_time": 65.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "repeat",
+      "rough_end_time": 66.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "repeat",
+      "rough_end_time": 67.0,
+      "cue": ""
+    },
+    {
+      "step_number": 6,
+      "step_name": "repeat",
+      "rough_end_time": 68.0,
+      "cue": ""
+    },
+    {
+      "step_number": 7,
+      "step_name": "repeat",
+      "rough_end_time": 69.0,
+      "cue": ""
+    },
+    {
+      "step_number": 8,
+      "step_name": "repeat",
+      "rough_end_time": 70.0,
+      "cue": ""
+    },
+    {
+      "step_number": 9,
+      "step_name": "repeat",
+      "rough_end_time": 71.0,
+      "cue": ""
+    },
+    {
+      "step_number": 10,
+      "step_name": "repeat",
+      "rough_end_time": 72.0,
+      "cue": ""
+    },
+    {
+      "step_number": 11,
+      "step_name": "repeat",
+      "rough_end_time": 73.0,
+      "cue": ""
+    },
+    {
+      "step_number": 12,
+      "step_name": "repeat",
+      "rough_end_time": 74.0,
+      "cue": ""
+    },
+    {
+      "step_number": 13,
+      "step_name": "repeat",
+      "rough_end_time": 75.0,
+      "cue": ""
+    },
+    {
+      "step_number": 14,
+      "step_name": "repeat",
+      "rough_end_time": 76.0,
+      "cue": ""
+    },
+    {
+      "step_number": 15,
+      "step_name": "repeat",
+      "rough_end_time": 77.0,
+      "cue": ""
+    },
+    {
+      "step_number": 16,
+      "step_name": "repeat",
+      "rough_end_time": 78.0,
+      "cue": ""
+    },
+    {
+      "step_number": 17,
+      "step_name": "repeat",
+      "rough_end_time": 79.0,
+      "cue": ""
+    },
+    {
+      "step_number": 18,
+      "step_name": "repeat",
+      "rough_end_time": 80.0,
+      "cue": ""
+    },
+    {
+      "step_number": 19,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}

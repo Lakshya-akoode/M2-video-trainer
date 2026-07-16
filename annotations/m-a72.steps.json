@@ -1,0 +1,48 @@
+{
+  "exercise_name": "m-a72",
+  "total_duration_seconds": 102.6,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 66.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "put_hands_behind_head",
+      "rough_end_time": 71.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "standing_torso_twist",
+      "rough_end_time": 78.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "repeat",
+      "rough_end_time": 84.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "repat",
+      "rough_end_time": 91.0,
+      "cue": ""
+    },
+    {
+      "step_number": 6,
+      "step_name": "repeat",
+      "rough_end_time": 96.0,
+      "cue": ""
+    },
+    {
+      "step_number": 7,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": ""
+    }
+  ]
+}

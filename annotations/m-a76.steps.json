@@ -1,0 +1,42 @@
+{
+  "exercise_name": "m-a76",
+  "total_duration_seconds": 79.45,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "start",
+      "rough_end_time": 45.0,
+      "cue": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "forward_lunge",
+      "rough_end_time": 56.0,
+      "cue": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "repeat",
+      "rough_end_time": 63.0,
+      "cue": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "repeat",
+      "rough_end_time": 68.0,
+      "cue": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "75",
+      "rough_end_time": null,
+      "cue": ""
+    },
+    {
+      "step_number": 6,
+      "step_name": "relax",
+      "rough_end_time": null,
+      "cue": "relax"
+    }
+  ]
+}
